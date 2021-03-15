@@ -2,9 +2,9 @@
 baseurl: "/my-very-first-one"
 
 # 网站的主标题
-title: "蔷子的世界"
+title: "Hi！欢迎来到海来阿呷的世界"
 # 网站副标题
-subTitle: "强棒少女"
+subTitle: "强棒少女在此~"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
